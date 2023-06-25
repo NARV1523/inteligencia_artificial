@@ -1,0 +1,311 @@
+h1{
+
+
+color: white;
+
+}
+
+a{
+text-decoration: none;
+}
+
+div {
+    border: 1px solid;
+    text-decoration: none;
+}
+
+body{
+background-image: url(IA/IA2Principal.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+margin: 0;
+}
+
+table{
+border: 1px solid;
+color: white;
+}
+
+.h2{
+border: 0px solid;
+color: black;
+font-size: 25px;
+margin-top: 2%;
+margin-left: 21%;
+width: 900px;
+height: 630px;
+
+}
+
+.h3{
+
+border: 0xp solid;
+color: black;
+margin-top: 2%;
+margin-left: 30%;
+width: 650px;
+height: 420px;
+
+}
+
+.h5{
+
+border: 0px solid;
+color: black;
+font-size: 40px;
+margin-top: 1%;
+margin-left: 3%;
+width: 200px;
+height: 50px;    
+
+}
+
+.h6{
+
+border: 0px solid;
+color: black;
+font-size: 30px;
+margin-top: 1%;
+margin-left: 3%;
+width: 1090px;
+height: 450px;    
+
+}
+
+.h7{
+
+border: 0px solid;
+color: black;
+margin-top: -25%;
+margin-left: 73%;
+width: 400px;
+height: 300px; 
+
+}
+
+.h8{
+
+border: 0px solid;
+color: black;
+font-size: 30px;
+margin-top: 7%;
+margin-left: 3%;
+width: 650px;
+height: 60px;
+
+}
+
+.h9{
+
+border: 0px solid;
+color: black;
+font-size: 30px;
+margin-top: 1%;
+margin-left: 33%;
+width: 1050px;
+height: 350px;   
+
+}
+
+.h10{
+
+border: 0px solid;
+color: black;
+margin-top: -20%;
+margin-left: 5%;
+width: 400px;
+height: 300px; 
+
+}
+
+.h11{
+
+border: 0px solid;
+color: black;
+font-size: 30px;
+margin-top: 1%;
+margin-left: 3%;
+width: 1500px;
+height: 950px;   
+
+}
+
+.h12{
+
+border: 0px solid;
+color: black;
+font-size: 40px;
+margin-top: -1%;
+margin-left: 3%;
+width: 500px;
+height: 90px;
+
+}
+
+.h13{
+
+border: 0px solid;
+color: black;
+font-size: 28px;
+margin-top: 1%;
+margin-left: 3%;
+width: 1000px;
+height: 650px; 
+
+}
+
+.h14{
+
+border: 1px solid;
+color: black;
+font-size: 30px;
+margin-top: -43%;
+margin-left: 71%;
+width: 400px;
+height: 57px; 
+
+}
+
+.h15{
+
+border: 1px solid;
+color: black;
+font-size: 30px;
+margin-top: 1%;
+margin-left: 71%;
+width: 400px;
+height: 500px; 
+
+}
+
+.h16{
+
+border: 0px solid;
+color: black;
+margin-top: 1%;
+margin-left: 71%;
+width: 400px;
+height: 300px; 
+
+}
+
+.h17{
+
+border: 0px solid;
+color: black;
+font-size: 28px;
+margin-top: -13%;
+margin-left: 3%;
+width: 1000px;
+height: 300px;
+
+}
+
+.h18{
+
+border: 0px solid;
+color: black;
+font-size: 40px;
+margin-top: -1%;
+margin-left: 3%;
+width: 500px;
+height: 90px;
+
+}
+
+.h19{
+
+border: 0px solid;
+color: black;
+font-size: 28px;
+margin-top: -1%;
+margin-left: 3%;
+width: 1000px;
+height: 1000px;
+
+}
+
+.h20{
+
+border: 0px solid;
+color: black;
+font-size: 40px;
+margin: 0 auto;
+margin-top: -1%;
+margin-left: 38%;
+width: 500px;
+height: 90px;   
+
+}
+
+.h21{
+
+border: 0px solid;
+color: black;
+font-size: 28px;
+margin-top: -2%;
+margin-left: 28%;
+width: 800px;
+height: 500px;
+
+}
+
+.h22{
+
+border: 0px solid;
+color: black;
+font-size: 28px;
+margin-top: -16%;
+margin-left: 28%;
+width: 800px;
+height: 200px;
+
+}
+
+.h23{
+
+border: 0px solid;
+color: black;
+font-size: 40px;
+margin-top: -1%;
+margin-left: 3%;
+width: 500px;
+height: 90px; 
+
+}
+
+.h24{
+
+border: 0px solid;
+color: black;
+font-size: 28px;
+margin-top: 1%;
+margin-left: 3%;
+width: 800px;
+height: 400px;
+    
+}
+
+.h25{
+
+border: 0px solid;
+color: black;
+font-size: 40px;
+margin-top: -25%;
+margin-left: 63%;
+width: 500px;
+height: 400px; 
+
+}
+
+.h26{
+
+border: 1px solid;
+color: black;
+font-size: 23px;
+margin-top: 1%;
+margin-left: 23%;
+width: 500px;
+height: 400px;
+
+}
